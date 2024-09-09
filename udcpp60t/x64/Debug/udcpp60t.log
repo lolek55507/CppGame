@@ -1,0 +1,5 @@
+﻿  udcpp60t.cpp
+C:\Users\lolek\Desktop\uccpp\p2\udcpp60t\udcpp60t\udcpp60t.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  utills.cpp
+  Generating Code...
+  udcpp60t.vcxproj -> C:\Users\lolek\Desktop\uccpp\p2\udcpp60t\x64\Debug\udcpp60t.exe
